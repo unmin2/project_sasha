@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project_sasha/static/css/main.b5320759.css",
+    "main.js": "/project_sasha/static/js/main.29d49131.js",
+    "index.html": "/project_sasha/index.html",
+    "main.b5320759.css.map": "/project_sasha/static/css/main.b5320759.css.map",
+    "main.29d49131.js.map": "/project_sasha/static/js/main.29d49131.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5320759.css",
+    "static/js/main.29d49131.js"
+  ]
+}
