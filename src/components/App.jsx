@@ -1,16 +1,12 @@
-export const App = () => {
+// App.js
+import React from 'react';
+import BrakeSystemTest from './BrakeSystemTest';
+const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+       <BrakeSystemTest />
     </div>
   );
 };
+
+export default App;
